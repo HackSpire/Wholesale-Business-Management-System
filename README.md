@@ -50,7 +50,7 @@ The system follows a **3-layered architecture**:
 ### 2️⃣ Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/HackSpire/wholesale-business-management.git
+   git clone https://github.com/HackSpire/Wholesale-Business-Management-System.git
    ```
 2. Import the project into **NetBeans IDE**.
 3. Set up the MySQL database and create tables (SQL scripts included in the repo).
